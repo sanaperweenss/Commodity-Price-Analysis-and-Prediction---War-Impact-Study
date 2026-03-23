@@ -1,0 +1,48 @@
+date,region_type,location,domestic_price,commercial_price,change_domestic,change_commercial,war_flag
+19-03-2026,City,New Delhi,913,1884.5,60,144,1
+19-03-2026,City,Kolkata,939,1988.5,60,144,1
+19-03-2026,City,Mumbai,912.5,1836,60,144,1
+19-03-2026,City,Chennai,928.5,2043.5,60,144,1
+19-03-2026,City,Gurgaon,921.5,1901.5,60,144,1
+19-03-2026,City,Noida,910.5,1884.5,60,144,1
+19-03-2026,City,Bangalore,915.5,1958,60,144,1
+19-03-2026,City,Bhubaneswar,939,2029,60,144,1
+19-03-2026,City,Chandigarh,922.5,1904.5,60,144,1
+19-03-2026,City,Hyderabad,965,2105.5,60,144,1
+19-03-2026,City,Jaipur,916.5,1913,60,144,1
+19-03-2026,City,Lucknow,950.5,2007,60,144,1
+19-03-2026,City,Patna,1002.5,2133.5,60,144,1
+19-03-2026,City,Thiruvananthapuram,922,1912,60,144,1
+19-03-2026,State,Andaman & Nicobar,989,2277.5,60,144,1
+19-03-2026,State,Andhra Pradesh,937.5,2042.5,60,144,1
+19-03-2026,State,Arunachal Pradesh,978.5,2111.5,60,144,1
+19-03-2026,State,Assam,962,2080,60,144,1
+19-03-2026,State,Bihar,1002.5,2133.5,60,144,1
+19-03-2026,State,Chandigarh,922.5,1904.5,60,144,1
+19-03-2026,State,Chhattisgarh,984,2085.5,60,144,1
+19-03-2026,State,Dadra and Nagar Haveli and Daman and Diu,927.5,1868,60,144,1
+19-03-2026,State,Delhi,913,1884.5,60,144,1
+19-03-2026,State,Gujarat,920.5,1946,60,144,1
+19-03-2026,State,Haryana,914.5,1886.5,60,144,1
+19-03-2026,State,Himachal Pradesh,958.5,1996.5,60,144,1
+19-03-2026,State,Jammu & Kashmir,964.5,2026,60,144,1
+19-03-2026,State,Jharkhand,970.5,2038,60,144,1
+19-03-2026,State,Karnataka,915.5,1958,60,144,1
+19-03-2026,State,Kerala,922,1912,60,144,1
+19-03-2026,State,Madhya Pradesh,918.5,1889,60,144,1
+19-03-2026,State,Maharashtra,912.5,1836,60,144,1
+19-03-2026,State,Manipur,1064.5,2332.5,60,144,1
+19-03-2026,State,Meghalaya,980,2111,60,144,1
+19-03-2026,State,Mizoram,1065,2332,60,144,1
+19-03-2026,State,Nagaland,932,1963.5,60,144,1
+19-03-2026,State,Odisha,939,2029,60,144,1
+19-03-2026,State,Pondicherry,925,2042.5,60,144,1
+19-03-2026,State,Punjab,954,1992,60,144,1
+19-03-2026,State,Rajasthan,916.5,1913,60,144,1
+19-03-2026,State,Sikkim,1065.5,2364,60,144,1
+19-03-2026,State,Tamil Nadu,928.5,2043.5,60,144,1
+19-03-2026,State,Telangana,965,2105.5,60,144,1
+19-03-2026,State,Tripura,1073.5,2345.5,60,144,1
+19-03-2026,State,Uttar Pradesh,950.5,2007,60,144,1
+19-03-2026,State,Uttarakhand,932,1937.5,60,144,1
+19-03-2026,State,West Bengal,939,1988.5,60,144,1
